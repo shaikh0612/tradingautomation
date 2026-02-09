@@ -1,0 +1,2 @@
+# tradingautomation
+Algo trading Working 
